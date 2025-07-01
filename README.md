@@ -1,8 +1,18 @@
-# POKEDEX
+<h1 align="center"> POKEDEX </h1>
 
-Criação de uma aplicação em JavaScript + HTML + CSS de uma Pokédex do Pokémon com integração da PokéAPI para listagem dos pokémons. 
+Criação de uma Pokédex do Pokémon com integração da PokéAPI para listagem dos pokémons, com possibilidade de obtenção de carregamento de mais pokémons através de uma funcionalidade de `Load More`.
 
-# Screenshot 
 ![image](https://github.com/kevin-vogado/POKEDEX/assets/90290277/3c7fe529-336c-4f5e-bd70-a9a380ca0075)
 
+# Acessar e Baixar o Projeto
 
+[Clique aqui para acessar o projeto em funcionamento](https://kevin-vogado.github.io/javascript-POKEDEX/).
+
+Para baixar o projeto em sua máquina, execute `git clone` com o link do repositório remoto `https://github.com/kevin-vogado/javascript-POKEDEX.git`.
+
+# Técnicas e Tecnologias Utilizadas
+
+- `JavaScript`
+- `HTML5`
+- `CSS3`
+- `PokéAPI`
