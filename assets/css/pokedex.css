@@ -147,6 +147,7 @@
     border: none;
     border-radius: 1rem; 
     color: #fff;
+    cursor: pointer;
 }
 
 @media only screen and (min-width: 380px) {
