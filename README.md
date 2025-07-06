@@ -4,6 +4,8 @@ A aplicação desenvolvida trata-se de um software que lista os personagens do P
 
 ![imagem da homepage principal da aplicação POKEDEX](https://github.com/kevin-vogado/POKEDEX/assets/90290277/3c7fe529-336c-4f5e-bd70-a9a380ca0075)
 
+![Badge em Produção](http://img.shields.io/static/v1?label=STATUS&message=ONLINE&color=GREEN&style=for-the-badge)
+
 # Acessar e Baixar o Projeto
 
 [Clique aqui para acessar o projeto em funcionamento](https://kevin-vogado.github.io/javascript-POKEDEX/).
