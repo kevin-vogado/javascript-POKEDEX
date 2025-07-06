@@ -1,6 +1,6 @@
 <h1 align="center"> POKEDEX </h1>
 
-A aplicação desenvolvida trata-se de um software com listagem de pokémons do Pokémon, com integração da [API da PokéAPI](https://pokeapi.co/) é possível fazer a listagem dos pokémons, tendo a possibilidade de obter mais pokémons através de uma funcionalidade de `Load More` que busca mais pokémons para trazer na interface gráfica.
+A aplicação desenvolvida trata-se de um software que lista os personagens do Pokémon, consumindo a [API da PokéAPI](https://pokeapi.co/), é feito a listagem dos pokémons em uma interface gráfica, tendo a possibilidade de obter mais personagens do Pokémon através da funcionalidade de `Load More` que busca mais pokémons para trazer na página web.
 
 ![imagem da homepage principal da aplicação POKEDEX](https://github.com/kevin-vogado/POKEDEX/assets/90290277/3c7fe529-336c-4f5e-bd70-a9a380ca0075)
 
@@ -15,4 +15,4 @@ Para baixar o projeto em sua máquina, execute `git clone` com o link do reposit
 - `JavaScript`
 - `HTML5`
 - `CSS3`
-- `PokéAPI`
+- `Consumo de API`
